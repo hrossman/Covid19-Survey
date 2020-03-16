@@ -2,7 +2,17 @@
 Data for the 2019 Novel Coronavirus COVID-19 Israel Survey 
 
 The data contains the following columns:
-
+* Date and time
+* Age
+* Gender
+* City
+* Street
+* Zip code
+* Symptoms
+* prior health conditions
+* Quarantine status
+* Smoking habits
+* Body temperature
 
 
 ## Links to the questionnaires:
