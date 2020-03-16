@@ -1,7 +1,8 @@
 # Israel-Covid19-Survey
 Data for the 2019 Novel Coronavirus COVID-19 Israel Survey 
 
-Links to the questionnaires:
+
+## Links to the questionnaires:
 
 עברית: https://tinyurl.com/sxhd8fd
 
@@ -12,7 +13,7 @@ English: https://tinyurl.com/v8ga66h
 русский: https://docs.google.com/forms/d/1TnmCwz3uQ0fWvU-R61ShWYFTBo19aG1VR5AXhYTZ4Sg/viewform?edit_requested=true
 
 
-Dealing with Coronavirus: A daily questionnaire
+## Dealing with Coronavirus: A daily questionnaire
 This questionnaire was designed to locate potential geographic areas in which the coronavirus is spreading in Israel. You will be asked about potential symptoms of the virus. A better estimation of the number of infected people in each area will help to identify locations in which the number of infected people is particularly high. 
 
 Please fill out the questionnaire every day and separately for each family member. It is important to fill out the questionnaire also in cases where you and your family are feeling well and do not experience any symptoms.  
