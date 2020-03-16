@@ -1,13 +1,15 @@
 # Israel-Covid19-Survey
 Data for the 2019 Novel Coronavirus COVID-19 Israel Survey 
 
+Dealing with Coronavirus: A daily questionnaire
+This questionnaire was designed to locate potential geographic areas in which the coronavirus is spreading in Israel. You will be asked about potential symptoms of the virus. A better estimation of the number of infected people in each area will help to identify locations in which the number of infected people is particularly high. 
 
-שאלון זה נועד לסייע לאתר את מוקדי התפשטות נגיף קורונה בישראל. הוא נועד להעריך אם פיתחת תסמינים הנגרמים מהנגיף. הערכה טובה של מספר האנשים בכל אזור שפיתחו תסמינים תסייע באיתור מוקדי ההתפשטות והחולים מהר יותר.
+Please fill out the questionnaire every day and separately for each family member. It is important to fill out the questionnaire also in cases where you and your family are feeling well and do not experience any symptoms.  
 
-נודה לך אם תמלא/י את השאלון פעם אחת בכל יום. נבקש שהשאלון ימולא על ידי (או עבור) כל בן משפחה בנפרד. חשוב שגם מי שחש בטוב ולא פיתח אף תסמין ימלא את השאלון.
+Note that this questionnaire cannot diagnose coronavirus infection. It is anonymous and all the data will be used solely for tracking the spread of the virus. We are taking every measure to keep the privacy of participants. 
 
-יודגש כי אין בשאלון זה כדי לאבחן הידבקות בנגיף. כמו כן, השאלון אנונימי וכל הנתונים ישמשו אך ורק לצורך מעקב אחרי התפשטות הנגיף. אנחנו נוקטים בכל האמצעים כדי לשמור על פרטיות השולחים ועל בטחון המידע. תודה!
+We thank you for your participation,
 
-פרופסור ערן סגל, מכון ויצמן למדע
-פרופסור יובל דור, האוניברסיטה העברית
-פרופסור בנימין גיגר, מכון ויצמן למדע
+Prof Eran Segal, Weizmann Institute of Science
+Prof Yuval Dor, The Hebrew University of Jerusalem
+Prof Benjamin Geiger, Weizmann Institute of Science
