@@ -1,5 +1,5 @@
 # Israel-Covid19-Survey
-Data for the 2019 Novel Coronavirus COVID-19 Israel Survey 
+Code repository for the 2019 Novel Coronavirus COVID-19 Israel Survey 
 
 The data contains the following columns:
 * Date and time
