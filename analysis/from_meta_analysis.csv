@@ -1,0 +1,9 @@
+,symptom,met_mean,mean_ci,low_ci,high_ci
+0,Fever,79.1,(68.0-90.3),68.0,90.3
+1,Cough,58.0,(42.0-74.0),42.0,74.0
+2,Fatigue,29.3,(23.4-35.3),23.4,35.3
+3,Shortness of breath,3.5,(2.2-4.9),2.2,4.9
+4,Nausea or vomiting,2.0,(1.0-2.9),1.0,2.9
+5,Diarrhea,5.7,(3.9-7.5),3.9,7.5
+6,Runny nose,1.1,(0.3-1.9),0.3,1.9
+7,Muscle pains,3.8,(2.4-5.2),2.4,5.2
