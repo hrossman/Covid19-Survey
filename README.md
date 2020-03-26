@@ -6,5 +6,11 @@ Code repository for preliminary analysis of the work presented in:
 
 https://www.medrxiv.org/content/10.1101/2020.03.19.20038844v1
 
-Survey in different languages availble at:
+
+Source code for the surveys is available at:
+https://github.com/hasadna/avid-covider
+can be readily adapted to use in other countries.
+
+
+Israel survey availble at:
 https://coronaisrael.org/en/index.html
