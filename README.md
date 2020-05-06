@@ -11,7 +11,7 @@ Aggregated data by city and date is available in the aggregated_data irectory. I
 Rossman, H. et al. A framework for identifying regional outbreak and spread of COVID-19 from one-minute population-wide surveys. Nat. Med. (2020). doi:10.1038/s41591-020-0857-9
 ```
 
-## Published work:
+## Published work
 
 - ["A framework for identifying regional outbreak and spread of COVID-19 from one-minute population-wide surveys" (Nature Medicine 2020)](https://www.nature.com/articles/s41591-020-0857-9) - Hagai Rossman, Ayya Keshet, Smadar Shilo, Amir Gavrieli, Tal Bauman, Ori Cohen, Ran Balicer, Benjamin Geiger, Yuval Dor, Eran Segal
 
