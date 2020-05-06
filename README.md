@@ -6,7 +6,7 @@ Developed by [Eran Segal's group](https://genie.weizmann.ac.il/) at the Weizmann
 
 ## Data
 
-Aggregated data by city and date is available in the aggrgated_data irectory. If used please cite:
+Aggregated data by city and date is available in the aggregated_data irectory. If used please cite:
 ```
 Rossman, H. et al. A framework for identifying regional outbreak and spread of COVID-19 from one-minute population-wide surveys. Nat. Med. (2020). doi:10.1038/s41591-020-0857-9
 ```
