@@ -2,7 +2,7 @@
 
 Code and data repository for the [Israel Covid19 survey](https://coronaisrael.org/en/index.html)
 
-Developed by Weizmann Institute of Science and the Public knowledge workshop (Hasadna)
+Developed by [Eran Segal's group](https://genie.weizmann.ac.il/) at the Weizmann Institute of Science and the [Public knowledge workshop (Hasadna)](https://www.hasadna.org.il/en/)
 
 ## Data
 
