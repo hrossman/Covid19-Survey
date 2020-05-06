@@ -13,11 +13,10 @@ Rossman, H. et al. A framework for identifying regional outbreak and spread of C
 
 ## Published work:
 
-["A framework for identifying regional outbreak and spread of COVID-19 from one-minute population-wide surveys"](https://www.nature.com/articles/s41591-020-0857-9)
+["A framework for identifying regional outbreak and spread of COVID-19 from one-minute population-wide surveys" (Nature Medicine 2020)](https://www.nature.com/articles/s41591-020-0857-9)
 
 Hagai Rossman, Ayya Keshet, Smadar Shilo, Amir Gavrieli, Tal Bauman, Ori Cohen, Ran Balicer, Benjamin Geiger, Yuval Dor, Eran Segal
 
-(Nature Medicine 2020)
 
 
 ["The effect of a national lockdown in response to COVID-19 pandemic on the prevalence of clinical symptoms in the population"](https://www.medrxiv.org/content/10.1101/2020.04.27.20076000v1)
