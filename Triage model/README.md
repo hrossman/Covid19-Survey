@@ -1,7 +1,7 @@
 ## COVID-19 model
 
 Model from the paper:
-["Who should we test for COVID-19? A triage model built from national symptom surveys"](https://www.medrxiv.org/content/10.1101/2020.05.18.20105569v1) - Saar Shoer, Tal Karady, Ayya Keshet, Smadar Shilo, Hagai Rossman, Amir Gavrieli, Tomer Meir, Amit Lavon, Dmitry Kolobkov, Iris Kalka, Anastasia Godneva, Ori Cohen, Adam Kariv, Ori Hoch, Mushon Zer-Aviv, Noam Castel, Anat Ekka Zohar, Angela Irony, Benjamin Geiger, Dorit Hizi, Varda Shalev, Ran Balicer, Eran Segal
+["Who should we test for COVID-19? A triage model built from national symptom surveys"]
 
 doi: https://doi.org/10.1101/2020.05.18.20105569
 
