@@ -1,7 +1,7 @@
 ## COVID-19 model
 
 Model from the paper:
-["Who should we test for COVID-19? A triage model built from national symptom surveys"]
+["Who should we test for COVID-19? A triage model built from national symptom surveys"](https://www.medrxiv.org/content/10.1101/2020.05.18.20105569v1)
 
 doi: https://doi.org/10.1101/2020.05.18.20105569
 
