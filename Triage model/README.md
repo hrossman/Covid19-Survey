@@ -1,4 +1,4 @@
-## COVID-19 model
+# COVID-19  triage model
 
 Model from the paper:
 ["Who should we test for COVID-19? A triage model built from national symptom surveys"](https://www.medrxiv.org/content/10.1101/2020.05.18.20105569v1)
@@ -17,7 +17,7 @@ based on the following features:
 * Smell or taste loss
 * Fever (over 38 degrees celicius)
 
-Usage:
+## Usage:
 1. Update the response.json file with the answer to the features
 (True means having the symptoms, at least one of the prior medical conditions, feeling well and being male, False means the opposite)
 2. In the python file choose the model_path to be xgboost_model.sav or logistic_model.sav
