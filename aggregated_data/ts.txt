@@ -1,4 +1,4 @@
 source timestamp
 bot 2020-05-25T04:58:38
-maccabi 2020-05-19T00:00:00
+maccabi 2020-05-22T00:00:00
 MOH 2020-05-22T00:00:00
