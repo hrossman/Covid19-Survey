@@ -19,7 +19,7 @@ Rossman, H. et al. A framework for identifying regional outbreak and spread of C
 
 - ["Who should we test for COVID-19? A triage model built from national symptom surveys"](https://www.medrxiv.org/content/10.1101/2020.05.18.20105569v1) - Saar Shoer, Tal Karady, Ayya Keshet, Smadar Shilo, Hagai Rossman, Amir Gavrieli, Tomer Meir, Amit Lavon, Dmitry Kolobkov, Iris Kalka, Anastasia Godneva, Ori Cohen, Adam Kariv, Ori Hoch, Mushon Zer-Aviv, Noam Castel, Anat Ekka Zohar, Angela Irony, Benjamin Geiger, Dorit Hizi, Varda Shalev, Ran Balicer, Eran Segal
 
-- Also see:  ["Building an International Consortium for Tracking Coronavirus Health Status (Nature Medicine 2020)](https://www.nature.com/articles/s41591-020-0929-x) - Segal et. al.
+- Also see:  ["Building an International Consortium for Tracking Coronavirus Health Status (Nature Medicine 2020)](https://www.nature.com/articles/s41591-020-0929-x) - Segal et al.
 
 
 ## Surveys
