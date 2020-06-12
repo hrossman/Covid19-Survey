@@ -25,13 +25,13 @@ Creating the models usage:
 (True means having the symptoms, at least one of the prior medical conditions, feeling well and being male, False means the opposite)
 2. In the python file choose the model_path to be xgboost_model.sav or logistic_model.sav
 3. Run the python file to get the prediction
-- Should take seconds on an avergae PC
+- Should take seconds on an average PC
 
 Running the models usage:
 1. Choose which model you want to run and adjust the 'model' variable in the python file accordingly
 2. Replace the simulated_data.csv file with real data for model creation
 3. Run the python file to create the models
-- Should take seconds on an avergae PC
+- Should take seconds on an average PC
 
 Data:
 'aggregated_data.csv' contains mean value for the symptoms above in the online version of the survey, aggregated by age group and gender
